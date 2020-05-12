@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	background-color: #EAE2D7;
+}
+
+
+hr {width: 90%;}
+
+h1{ font-size: 3em; }
+
+#whatido{
+	margin-top: 100px;
+	text-align: center;
+	font-size: 1.2em;
+}
+#header {
+	text-align: center; 
+	margin: 0px;
+}
+
+#header span { margin-right: 1em; }
+
+#education{
+	margin-top: 100px;
+	text-align: center;
+}
+
+#work {
+	margin-top: 100px;
+	text-align: center;
+}
+
+#interest {
+	margin-top: 100px;
+	text-align: center;
+}
+
+#contact {
+	margin-top: 100px;
+	text-align: center;
+}
+
+#contact a{ text-decoration: none;}
+
+#nav ul {text-align: center;}
+#nav ul li{ display: inline; margin-right:3px; margin-left: 3px;}
+#nav ul li a{ font-size: 1.4em; color: black;}
+
+#header ul {text-align: center;}
+#header ul li{ display: inline; margin-right:10px; margin-left: 3px;}
+#header ul li a{color: gray;}
+p{color:gray;}
+p a{ color:gray; }
