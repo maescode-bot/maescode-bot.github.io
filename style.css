@@ -24,21 +24,26 @@ h1{ font-size: 3em; }
 #education{
 	margin-top: 100px;
 	text-align: center;
+        font-size: 1.3em;
 }
 
 #work {
 	margin-top: 100px;
 	text-align: center;
+        font-size: 1.3em;
 }
 
 #interest {
 	margin-top: 100px;
-	text-align: center;
+	text-align: center; 
+        font-size: 1.3em;
 }
 
 #contact {
 	margin-top: 100px;
 	text-align: center;
+        font-size: 1.3em;
+        
 }
 
 #contact a{ text-decoration: none;}
