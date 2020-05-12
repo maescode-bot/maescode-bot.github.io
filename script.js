@@ -12,7 +12,9 @@ $(document).ready(
 			$("#interest").hide();
 			$("#contact").hide();
 			$("#whatido").hide();
+			$("#education").css('font-size','1.2em');
 			$("#education").show(2000);
+
 			
 			
 		})
@@ -22,6 +24,7 @@ $(document).ready(
 			$("#contact").hide();
 			$("#whatido").hide();
 			$("#education").hide();
+			$("#work").css('font-size','1.2em');
 			$("#work").show(2000);
 			
 		})
@@ -31,6 +34,7 @@ $(document).ready(
 			$("#education").hide();
 			$("#work").hide()
 			$("#contact").hide();
+			$("#interest").css('font-size','1.2em');
 			$("#interest").show(2000);
 		})
 
@@ -39,6 +43,7 @@ $(document).ready(
 			$("#education").hide();
 			$("#work").hide()
 			$("#interest").hide();
+			$("#contact").css('font-size','1.2em');
 			$("#contact").show(2000);
 		})
 
