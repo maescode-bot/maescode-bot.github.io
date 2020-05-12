@@ -1,0 +1,40 @@
+
+hr {background-color: blue; height: 1px;}
+
+#whatido{
+	margin-top: 100px;
+	text-align: center;
+}
+#header {
+	text-align: center; 
+}
+
+#header span { margin-right: 1em; }
+
+#education{
+	margin-top: 100px;
+	text-align: center;
+}
+
+#work {
+	margin-top: 100px;
+	text-align: center;
+}
+
+#interest {
+	margin-top: 100px;
+	text-align: center;
+}
+
+#contact {
+	margin-top: 100px;
+	text-align: center;
+}
+
+#contact a{ text-decoration: none;}
+
+#nav ul {text-align: center;}
+#nav ul li{ display: inline; margin-right:5px; margin-left: 5px;}
+
+#header ul {text-align: center;}
+#header ul li{ display: inline; margin-right:10px; margin-left: 3px;}
