@@ -12,7 +12,7 @@ $(document).ready(
 			$("#interest").hide();
 			$("#contact").hide();
 			$("#whatido").hide();
-			$("#education").css('font-size','1.3em');
+			$("#education").css('font-size','1.5em');
 			$("#education").show(2000);
 
 			
@@ -24,7 +24,7 @@ $(document).ready(
 			$("#contact").hide();
 			$("#whatido").hide();
 			$("#education").hide();
-			$("#work").css('font-size','1.3em');
+			$("#work").css('font-size','1.5em');
 			$("#work").show(2000);
 			
 		})
@@ -34,7 +34,7 @@ $(document).ready(
 			$("#education").hide();
 			$("#work").hide()
 			$("#contact").hide();
-			$("#interest").css('font-size','1.3em');
+			$("#interest").css('font-size','1.5em');
 			$("#interest").show(2000);
 		})
 
@@ -43,7 +43,7 @@ $(document).ready(
 			$("#education").hide();
 			$("#work").hide()
 			$("#interest").hide();
-			$("#contact").css('font-size','1.3em');
+			$("#contact").css('font-size','1.5em');
 			$("#contact").show(2000);
 		})
 
